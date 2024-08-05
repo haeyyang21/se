@@ -1,0 +1,54 @@
+#box{
+    display: flex;
+    width: 900px;
+}
+#left{
+    width: 900px;
+    height: 700px;
+    background-color: aliceblue;
+}
+#left_1{
+    width: 700px;
+height: 200px;
+background-color: aqua;
+
+}
+#left_2{
+    width: 700px;
+height: 50px;
+background-color: orange;
+display: flex;
+
+}
+#left_3{
+    width: 700px;
+height: 450px;
+background-color: blue;
+}
+
+#side_banner{
+    width: 200px;
+    height: 700px;
+    background-color: blueviolet;
+}
+#logo{
+    width: 150px;
+    height: 200px;
+}
+#main{
+    width: 550px;
+    height: 200px;
+}
+.menu{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+#menu_select{
+    width: 150px;
+    height: 450px;
+}
+#main_content{
+    width: 550px;
+    height: 450px;
+}
